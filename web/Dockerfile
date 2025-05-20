@@ -1,5 +1,5 @@
 FROM nginx:1.21.6
-# Expose port 8080
+# Expo port 8080
 EXPOSE 8080
 
 ENV CATALOGUE_HOST=catalogue \
